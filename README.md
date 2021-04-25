@@ -20,5 +20,3 @@
 | R                           |  ●●○○○  |
 | Julia                           |  ●●○○○  |
 | SQL                           |  ●●○○○  |
-
-[![twitter badge](https://img.shields.io/badge/-@rohithramakrishna-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/rohithramakrishna)
