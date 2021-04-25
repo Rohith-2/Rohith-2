@@ -6,13 +6,13 @@ Amrita Vishwa Vidyapeetham - Coimbatore,Tamil Nadu, India.
 • Current GPA – 9.3  
 
 ## Skills
-Data Analysis                |  ●●●○○  
-Python                       |  ●●●●○  
-Java                         |  ●●●●○  
-MATLAB                       |  ●●●●○  
-Machine Learning             |  ●●●○○  
-Data Mining                  |  ●●○○○  
-Natural Language Processing  |  ●●●○○ 
-
-
- 
+|                              |         |
+|------------------------------|---------|
+| Data Analysis                |  ●●●○○  |
+| Data Visualisation           |  ●●●○○  | 
+| Machine Learning             |  ●●●○○  |
+| Data Mining                  |  ●●○○○  |
+| Natural Language Processing  |  ●●●○○  | 
+| Python                       |  ●●●●○  |
+| Java                         |  ●●●●○  | 
+| MATLAB                       |  ●●●●○  |
