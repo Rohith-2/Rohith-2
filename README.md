@@ -14,7 +14,8 @@
 | Natural Language Processing  |  ●●●○○  | 
 | Python                       |  ●●●●○  |
 | Java                         |  ●●●●○  | 
-| MATLAB                       |  ●●●●○  |
+| MATLAB                       |  ●●●●○  |  
+| Scala                        |  ●●●○○  |
 | JavaScript                   |  ●●●○○  |
 | R                           |  ●●○○○  |
 | Julia                           |  ●●○○○  |
