@@ -12,6 +12,10 @@
 | Machine Learning             |  ●●●○○  |
 | Data Mining                  |  ●●○○○  |
 | Natural Language Processing  |  ●●●○○  | 
+
+## Languages
+|                              |         |
+|------------------------------|---------|
 | Python                       |  ●●●●○  |
 | Java                         |  ●●●●○  | 
 | MATLAB                       |  ●●●●○  |  
@@ -19,4 +23,4 @@
 | JavaScript                   |  ●●●○○  |
 | R                           |  ●●○○○  |
 | Julia                           |  ●●○○○  |
-| SQL                           |  ●●○○○  |
+| SQL                           |  ●●○○○  |. 
