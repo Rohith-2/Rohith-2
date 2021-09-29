@@ -12,6 +12,7 @@
 | Machine Learning             |  ●●●○○  |
 | Data Mining                  |  ●●○○○  |
 | Natural Language Processing  |  ●●●○○  | 
+| Computer Vision              |  ●●○○○  |
 
 ## Languages
 |                              |         |
