@@ -4,43 +4,41 @@
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Follow-gray?style=flat-square&logo=github&logoColor=white)](https://github.com/Rohith-2)
 [![Medium Badge](https://img.shields.io/badge/Medium-Follow-white?style=flat-square&logo=medium&logoColor=black)](https://medium.com/@rrohith2001)
 
-Welcome to my GitHub portfolio! I'm Rohith Ramakrishnan, a passionate and results-driven AI and Data Science professional with a strong academic foundation and hands-on experience in developing and deploying cutting-edge solutions. This repository showcases a collection of my projects, contributions, and publications.
+I build search, retrieval, and NLP systems — some at work, some just because I wanted to know how they worked. Currently a Master's student in Data Science at the University of Michigan; before that, a few years shipping GenAI systems in an aviation engineering org. This page is really about what's in the repos below.
 
-## About Me
+## Search & Retrieval
 
-I hold a B.Tech in Artificial Intelligence from Amrita Vishwa Vidyapeetham with a CGPA of 9.3/10 and I'm currently pursuing a Diploma in Data Science and Programming from IIT Madras. My expertise lies in leveraging advanced techniques in machine learning, natural language processing, and big data to solve complex real-world problems.
+* **[bm25-fusion](https://github.com/Rohith-2/bm25-fusion)** — An ultra-fast BM25 implementation from scratch in Python, JIT-compiled with Numba. Supports classic BM25, BM25+, BM25L, and ATIRE variants, metadata filtering, real-time add/delete, and HDF5 persistence. It's [on PyPI](https://pypi.org/project/bm25-fusion/) — `pip install bm25-fusion`.
+* **[url_classification_dl](https://github.com/Rohith-2/url_classification_dl)** — Feature extraction and engineering on raw URLs, feeding a neural classifier. My most-forked repo, so apparently it's been useful to more people than just me.
 
-## Featured Projects
-* **BM25-Fusion Python Library:** Developed a Python library, BM25-Fusion, for optimized big data indexing using numba and jit for sparse indexing.
-* **Llama-Index Integrations:** Implemented streaming and chat support for NVIDIA's Triton inference in Llama-Index and S-BERT Re-Ranker Inference for Hugging Face's Text-Embedding-Inference in Llama-Index[cite: 3, 4].
+## Science-flavored side quests
 
-## Open Source Contributions
+* **[Chaos-Game-Representation_BioSeq](https://github.com/Rohith-2/Chaos-Game-Representation_BioSeq)** — Turns DNA sequences into chaos-game fractal images, then compares those images to measure similarity between genes and species. Has a [Streamlit GUI](https://share.streamlit.io/rohith-2/chaos-game-representation_bioseq/stream.py) and a [Medium writeup](https://rrohith2001.medium.com/chaos-game-representation-of-genetic-sequences-e0e6bdcfaf6c) if you want the full story.
+* **[SpatioTemporalKoopman](https://github.com/Rohith-2/SpatioTemporalKoopman)** — Playing with Koopman-operator / dynamic mode decomposition methods (HODMD) for spatiotemporal systems.
+* **[big_data_analysis](https://github.com/Rohith-2/big_data_analysis)** — 20+ years of US flight performance data (1987–2008), crunched in Scala/Spark. A big-data course needed a genuinely big dataset.
 
-I'm an active contributor to the open-source community, with notable contributions to:
+## For fun
 
-* Llama-Index
-* Hugging Face
-* NVIDIA Triton Inference Server
+* **[ACoin](https://github.com/Rohith-2/ACoin)** — A toy blockchain/cryptocurrency in Java, built to actually understand block-chaining and proof-of-work rather than just read about them.
 
-## Publications 
+## Open source contributions
 
-I'm also a published author in the field of AI and Data Science:
+* **LlamaIndex** — Triton streaming/chat inference support, and S-BERT re-ranker integration for Hugging Face's Text-Embeddings-Inference
+* **Hugging Face**
+* **NVIDIA Triton Inference Server**
 
-* **PACLIC-35:** Analysis of Text-Semantics via Efficient Word Embedding Using Variational Mode Decomposition
-* **ISCMM-21:** CT Image Enhancement using Variational Mode Decomposition for AI Enabled COVID Classification
-* **ICICC-22:** Data-Driven Volatile Cryptocurrency Price Forecasting via Variational Mode Decomposition and BI-LSTM 
+GitHub also seems to think this adds up to a Pull Shark and Arctic Code Vault Contributor badge, for what it's worth.
 
-## Skills
+## A few papers, if you're into that
 
-**Frameworks:** Llama-Index, Langchain, Triton, TensorRT-LLM, SpaCy, VLLM, TensorFlow, PyTorch, Flask, Spacy, Dask, Docker, PySpark, Apache SOLR
-or Led Innovative Developments in GenAI LLMs [cite: 4]
+* Analysis of Text-Semantics via Efficient Word Embedding Using Variational Mode Decomposition — PACLIC-35, 2021
+* CT Image Enhancement Using Variational Mode Decomposition for AI-Enabled COVID Classification — 2023
+* Data-Driven Volatile Cryptocurrency Price Forecasting via Variational Mode Decomposition and BiLSTM — ICICC 2022
 
-## Connect with Me
+## Connect
 
 * [LinkedIn](https://www.linkedin.com/in/rohith-ramakrishnan)
 * [Medium](https://medium.com/@rrohith2001)
 * [ResearchGate](Rohith_Ramakrishnan2)
 * [OrcID](0000-0001-6911-4880)
-* Email: rrohith2001@gmail.com
-
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration opportunities.
+* Email: rrohith@umich.edu
